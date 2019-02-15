@@ -15,7 +15,7 @@
   - Stores data.csv into df pandas dataframe indexed by   timestamp
   - `pd.read_csv`
   - Outputs answer to all three questions in console
-  - Q1 `print(max_c)`
-  - [Q2](https://github.com/coolkp/moloco/blob/master/Q3/q3.py#L35)  `print(ans)`
-  - [Q3](https://github.com/coolkp/moloco/blob/master/Q3/q3.py#L60)`print(ans)`
-  - Q4 `print(ans4)`
+  - [Q1]((https://github.com/coolkp/moloco/blob/master/Q3/q3.py#L19) `print(max_c)`
+  - [Q2](https://github.com/coolkp/moloco/blob/master/Q3/q3.py#L39)  `print(ans)`
+  - [Q3](https://github.com/coolkp/moloco/blob/master/Q3/q3.py#L64)`print(ans)`
+  - [Q4](https://github.com/coolkp/moloco/blob/master/Q3/q3.py#L66) `print(ans4)`
